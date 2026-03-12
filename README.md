@@ -12,10 +12,10 @@
 - `Lesson 2 - Adding a Title, Headings, and Paragraphs to a Web Page`
 - `Lesson 3 - Adding Hyperlinks, Lists, and an Image to a Web Page`
 - `Lesson 4 - Adding HTML Plug-Ins`
-- `Lesson 5 -
-- `Lesson 6 -
-- `Lesson 7 -
-- `Lesson 8 -
+- `Lesson 5 - Adding Tables to a Webpage`
+- `Lesson 6 - Creating Forms Using HTML`
+- `Lesson 7 - Using ID, Class, Header, and Footer in HTML`
+- `Lesson 8 - Using Nav, Section, Time, and Abbreviations in HTML` 
 - `Lesson 9 -
 - `Lesson 10 -
 - `Lesson 11 -
