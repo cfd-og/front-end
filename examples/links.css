@@ -1,0 +1,33 @@
+/* Styling for links */
+a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    background-color: darkblue;
+    padding: 10px;
+    border-radius: 5px;
+}
+a:hover {
+    background-color: navy;
+}
+/* Styling for block elements */
+.block-container {
+    background-color: lightgray;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+/* Styling for float property */
+.float-container img {
+    float: right;
+    margin-left: 20px;
+}
+body {
+    background-color: lightseagreen;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+p {
+    text-align: center;
+}
