@@ -21,5 +21,5 @@
 - `Lesson 11 - Implementing Links, Blocks, and Float in HTML` 
 - `Lesson 12 -
 - `Lesson 13 -
-- `Lesson 14 -
-- `Lesson 15 -
+- `Lesson 14 - Styling Forms in HTML`
+- `Lesson 15 - Implementing Links, Blocks, and Float in HTML`
