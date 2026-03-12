@@ -15,8 +15,8 @@
 - `Lesson 5 - Adding Tables to a Webpage`
 - `Lesson 6 - Creating Forms Using HTML`
 - `Lesson 7 - Using ID, Class, Header, and Footer in HTML`
-- `Lesson 8 - Using Nav, Section, Time, and Abbreviations in HTML` 
-- `Lesson 9 -
+- `Lesson 8 - Using Nav, Section, Time, and Abbreviations in HTML - v.a.l> repo> click file to show in browser` 
+- `Lesson 9 - Using Inline Styles in HTML`
 - `Lesson 10 -
 - `Lesson 11 -
 - `Lesson 12 -
