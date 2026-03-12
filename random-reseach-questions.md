@@ -1,0 +1,2 @@
+- `Why do some files (idclass.html or nav.html) clicked on to render instead of using the server?`
+- 

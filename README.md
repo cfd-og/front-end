@@ -17,7 +17,7 @@
 - `Lesson 7 - Using ID, Class, Header, and Footer in HTML`
 - `Lesson 8 - Using Nav, Section, Time, and Abbreviations in HTML - v.a.l> repo> click file to show in browser` 
 - `Lesson 9 - Using Inline Styles in HTML`
-- `Lesson 10 -
+- `Lesson 10 - Using External Styling in HTML`
 - `Lesson 11 -
 - `Lesson 12 -
 - `Lesson 13 -
