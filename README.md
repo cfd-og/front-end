@@ -19,7 +19,7 @@
 - `Lesson 9 - Using Inline Styles in HTML`
 - `Lesson 10 - Using External Styling in HTML`
 - `Lesson 11 - Implementing Links, Blocks, and Float in HTML` 
-- `Lesson 12 -
+- `Lesson 12 - Using Grouping Selectors in HTML`
 - `Lesson 13 -
 - `Lesson 14 - Styling Forms in HTML`
 - `Lesson 15 - Implementing Links, Blocks, and Float in HTML`
