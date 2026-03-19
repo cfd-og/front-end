@@ -23,3 +23,5 @@
 - `Lesson 13 - Applying Text Styling, Borders, and Background Images in HTML`
 - `Lesson 14 - Styling Forms in HTML`
 - `Lesson 15 - Implementing Links, Blocks, and Float in HTML`
+`Section Three:`
+- `Lesson 1 - Using Variables and Data Types`
