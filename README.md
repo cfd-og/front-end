@@ -20,6 +20,6 @@
 - `Lesson 10 - Using External Styling in HTML`
 - `Lesson 11 - Implementing Links, Blocks, and Float in HTML` 
 - `Lesson 12 - Using Grouping Selectors in HTML`
-- `Lesson 13 -
+- `Lesson 13 - Applying Text Styling, Borders, and Background Images in HTML`
 - `Lesson 14 - Styling Forms in HTML`
 - `Lesson 15 - Implementing Links, Blocks, and Float in HTML`
